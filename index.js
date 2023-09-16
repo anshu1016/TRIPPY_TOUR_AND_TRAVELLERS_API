@@ -7,8 +7,18 @@ const PORT = 3000;
 const {initializeDatabase} = require("./db/db.js");
 
 const{
-  seedDataBase,
-addNewDestination,getDestination,getDestinationByName,getDestByLocation,getDestByDesc,getDestByAsc,updateTravelDestination,deleteTravelDestination,filterDestinationsByMinRating,addReviewToDestination,getFirstThreeReviews
+seedDataBase,
+addNewDestination,
+getDestination,
+getDestinationByName,
+getDestByLocation,
+getDestByDesc,  
+getDestByAsc,
+updateTravelDestination,
+deleteTravelDestination,
+filterDestinationsByMinRating,
+addReviewToDestination,
+getFirstThreeReviews
 } = require("./queries/tour.queries.js")
 
 app.get("/",(req,res)=>{

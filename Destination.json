@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Eiffel Tower",
+    "location": "Paris, France",
+    "description": "An iconic iron tower in Paris.",
+    "rating": 8.5,
+    "reviews": [
+      {
+        "user": "JohnDoe",
+        "comment": "Beautiful place!"
+      },
+      {
+        "user": "JaneSmith",
+        "comment": "The view from the top was breathtaking!"
+      }
+    ]
+  },
+  {
+    "name": "Great Wall of China",
+    "location": "China",
+    "description": "Historical walls stretching thousands of miles.",
+    "rating": 9.0,
+    "reviews": [
+      {
+        "user": "Traveller123",
+        "comment": "A must-visit!"
+      }
+    ]
+  },
+  {
+    "name": "Statue of Liberty",
+    "location": "New York, USA",
+    "description": "Iconic statue symbolizing freedom.",
+    "rating": 8.7,
+    "reviews": []
+  },
+  {
+    "name": "Machu Picchu",
+    "location": "Peru",
+    "description": "Ancient Incan city set high in the Andes.",
+    "rating": 9.3,
+    "reviews": [
+      {
+        "user": "ExplorerX",
+        "comment": "Majestic ruins!"
+      }
+    ]
+  },
+  {
+    "name": "Taj Mahal",
+    "location": "Agra, India",
+    "description": "Magnificent white marble mausoleum.",
+    "rating": 9.5,
+    "reviews": [
+      {
+        "user": "HistoryBuff",
+        "comment": "A testament to love."
+      }
+    ]
+  },
+  {
+    "name": "Colosseum",
+    "location": "Rome, Italy",
+    "description": "Ancient gladiatorial arena.",
+    "rating": 8.9,
+    "reviews": []
+  },
+  {
+    "name": "Pyramids of Giza",
+    "location": "Cairo, Egypt",
+    "description": "Last of the original Seven Wonders of the World.",
+    "rating": 9.7,
+    "reviews": [
+      {
+        "user": "PharaohFan",
+        "comment": "An architectural marvel!"
+      }
+    ]
+  },
+  {
+    "name": "Petra",
+    "location": "Jordan",
+    "description": "Archaeological site famous for its rock-cut architecture.",
+    "rating": 9.1,
+    "reviews": []
+  },
+  {
+    "name": "Mount Fuji",
+    "location": "Japan",
+    "description": "Iconic volcano and Japan's highest peak.",
+    "rating": 8.8,
+    "reviews": [
+      {
+        "user": "NatureLover",
+        "comment": "Stunning views during the sunrise!"
+      }
+    ]
+  },
+  {
+    "name": "Niagara Falls",
+    "location": "Canada/USA",
+    "description": "Massive waterfalls at the border of Canada and the USA.",
+    "rating": 8.6,
+    "reviews": []
+  }
+]
